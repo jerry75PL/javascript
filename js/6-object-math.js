@@ -10,4 +10,4 @@ console.log( Math.pow(7, 3) );
 var r = 10;
 console.log( Math.PI * Math.pow(r, 2));
 console.log( 2 * Math.PI * r);
-alert( "LN10 = " + Math.LN10 );
+console( "LN10 = " + Math.LN10 );
